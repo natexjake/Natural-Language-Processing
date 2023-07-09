@@ -5,7 +5,7 @@ Welcome to my Natural Language Processing repository! This repository contains m
 
 <!-- - [Project 1](link_to_project1): Short description of project 1. -->
 
-##Installation
+## Installation
 
 1. Clone the repository:
 
